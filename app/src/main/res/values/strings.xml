@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FIT3077_Ass2</string>
+
+    <string name="birthDateLabelTextView">Birth Date: </string>
+    <string name="genderLabelTextView">Gender: </string>
+    <string name="high_bp_observations_title"> Latest 5 Systolic Blood Pressure Observations for High Systolic Blood Pressure</string>
+</resources>
